@@ -1,1 +1,1 @@
-link streamlit: https://iykedxiepl4tn5ufjkwwby.streamlit.app/?authuser=0
+link streamlit: https://iykedxiepl4tn5ufjkwwby.streamlit.app
